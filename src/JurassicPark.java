@@ -5,5 +5,9 @@ public class JurassicPark {
      **/
     public static void main(String[] args) {
         // Write your program here
+        System.out.println("""
+                "Life, uh,
+                finds a way."
+                —Ian Malcolm""");
     }
 }

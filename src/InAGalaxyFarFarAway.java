@@ -5,5 +5,9 @@ public class InAGalaxyFarFarAway {
      **/
     public static void main(String[] args) {
         // Write your program here
+        System.out.println("""
+                A long time ago
+                in a galaxy far,
+                far away....""");
     }
 }
